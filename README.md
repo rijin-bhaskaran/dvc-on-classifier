@@ -1,4 +1,4 @@
 # Example: Versioning 
 
-Datasets and ML model getting started
-[versioning tutorial](https://dvc.org/doc/tutorials/versioning).
+Here we are versioning only the dataset used, the model isnt trained on the data, 
+rather, the objective was to understand how the data is getting versioned when new data is added.
